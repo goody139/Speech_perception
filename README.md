@@ -1,5 +1,4 @@
-# Speech_perception
-This repository contains the midterm paper about speech perception of the course Cognitive Neuropsychology
+# This repository contains the midterm paper about speech perception of the course Cognitive Neuropsychology
 
 ## Contributors 
 Lisa Golla, Viktoria Konzmann, Jule Körner, Michael Hüppe
